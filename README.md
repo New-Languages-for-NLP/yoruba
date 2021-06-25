@@ -16,7 +16,7 @@ This repository is the central point for documentation and data for your project
 - Short description of your language and your research goals.
 
 ## Language(s) 
-- Yoruba
+- Yorùbá
 
 
 ## Curation Rationale
