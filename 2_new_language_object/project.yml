@@ -75,7 +75,7 @@ commands:
   - name: train
     help: "Train ${vars.treebank}"
     script:
-      - "spacy init fill-config configs/${vars.base_config}.cfg configs/config.cfg"
+      - "spacy init fill-config configs/${vars.base_config}.cfg configs/transformer_config.cfg"
       - "spacy train configs/config.cfg --output training"
     deps:
       - "corpus/${vars.treebank}/train.spacy"
