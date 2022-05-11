@@ -971,7 +971,7 @@
 18	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 19	lórí	lórí	ADP	_	_	_	_	_	_
 20	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-21	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+21	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 22	náà	náà	DET	_	PronType=Dem	_	_	_	_
 23	,	_	PUNCT	_	_	_	_	_	_
 24	Dókítà	dókítà	NOUN	_	_	_	_	_	_
@@ -1006,7 +1006,7 @@
 50	ewu	ewu	NOUN	_	_	_	_	_	_
 51	pẹ̀lú	pẹ̀lú	ADP	_	_	_	_	_	_
 52	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-53	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+53	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 54	náà	náà	DET	_	PronType=Dem	_	_	_	_
 55	.	_	PUNCT	_	_	_	_	_	_
 
@@ -1022,7 +1022,7 @@
 9	pawọ́pọ̀	pawọ́pọ̀	VERB	_	_	_	_	_	_
 10	gbé	gbé	VERB	_	_	_	_	_	_
 11	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-12	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+12	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 13	náà	náà	DET	_	PronType=Dem	_	_	_	_
 14	jáde	jáde	VERB	_	_	_	_	_	_
 15	tí	tí	AUX	_	_	_	_	_	_
