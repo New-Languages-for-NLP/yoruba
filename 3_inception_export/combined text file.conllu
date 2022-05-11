@@ -11897,7 +11897,7 @@
 # text = Tẹ́lì : Kí ìròyìn náà tó parí , ẹ gbọ́ kókó inú rẹ̀ lẹ́ẹ̀kan si .
 1	Tẹ́lì	tẹ́lì	NOUN	_	_	_	_	_	_
 2	:	_	PUNCT	_	_	_	_	_	_
-3	Kí	Kí	SCONJ	_	Case=Nom|Number=Sing|Person=3|PronType=Int	_	_	_	_
+3	Kí	Kí	SCONJ	_	_	_	_	_	_
 4	ìròyìn	Ìròyìn	NOUN	_	_	_	_	_	_
 5	náà	Náà	DET	_	PronType=Dem	_	_	_	_
 6	tó	tó	ADV	_	_	_	_	_	_
