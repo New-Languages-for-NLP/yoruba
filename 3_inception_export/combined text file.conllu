@@ -788,7 +788,7 @@
 18	nípa	nípa	ADP	_	_	_	_	_	_
 19	àwárí	àwárí	NOUN	_	_	_	_	_	_
 20	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-21	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+21	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 22	àkọ́kọ́	àkọ́kọ́	ADJ	_	NumType=Ord	_	_	_	_
 23	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 24	ògún	ògún	NOUN	_	_	_	_	_	_
@@ -823,7 +823,7 @@
 15	láti	láti	ADP	_	_	_	_	_	_
 16	ara	ara	NOUN	_	_	_	_	_	_
 17	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-18	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+18	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 19	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 20	fihàn	fihàn	VERB	_	_	_	_	_	_
 21	pé	pé	SCONJ	_	_	_	_	_	_
@@ -856,7 +856,7 @@
 14	ń	ń	AUX	_	_	_	_	_	_
 15	lo	lo	VERB	_	_	_	_	_	_
 16	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-17	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+17	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 18	náà	náà	DET	_	PronType=Dem	_	_	_	_
 19-20	tó	_	_	_	_	_	_	_	_
 19	tí	tí	PRON	_	PronType=Rel	_	_	_	_
@@ -908,7 +908,7 @@
 14	láti	láti	ADP	_	_	_	_	_	_
 15	ṣàwárí	ṣàwárí	VERB	_	_	_	_	_	_
 16	abẹ́rẹ́	abẹ́rẹ́	NOUN	_	_	_	_	_	_
-17	àjẹsára	àjẹsára	NOUN	_	_	_	_	_	_
+17	àjẹsára	àjẹsára	ADJ	_	_	_	_	_	_
 18	fún	fún	ADP	_	_	_	_	_	_
 19	àrun	àrun	NOUN	_	_	_	_	_	_
 20	COVID-19	_	PROPN	_	_	_	_	_	_
