@@ -602,7 +602,7 @@
 2	wá	wá	VERB	_	_	_	_	_	_
 3-4	ló	_	_	_	_	_	_	_	_
 3	ni	ni	PART	_	_	_	_	_	_
-4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+4	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	dé	dé	VERB	_	_	_	_	_	_
 6	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 7	ẹ̀yin	ẹ̀yin	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	_	_	_	_
@@ -1395,7 +1395,7 @@
 39	si	si	ADV	_	_	_	_	_	_
 40	ni	ni	PART	_	_	_	_	_	_
 41	,	_	PUNCT	_	_	_	_	_	_
-42	nípa	nípa	ADP_	_	_	_	_	_	
+42	nípa	nípa	ADP	_	_	_	_	_	_	
 43	dídí	dí	NOUN	_	_	_	_	_	_
 44	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 45	ọ̀nà	ọ̀nà	NOUN	_	_	_	_	_	_
@@ -1784,7 +1784,7 @@
 1	Kí	kí	PRON	_	PronType=Int	_	_	_	_
 2-3	ló	_	_	_	_	_	_	_	_
 2	ni	ni	VERB	_	_	_	_	_	_
-3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+3	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	kù	kù	VERB	_	_	_	_	_	_
 5	fún	fún	ADP	_	_	_	_	_	_
 6	wa	wa	PRON	_	Case=Acc|Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -2487,7 +2487,7 @@
 11	olú	olú	NOUN	_	_	_	_	_	_
 12	iléeṣẹ́	ilé-iṣẹ́	NOUN	_	_	_	_	_	_
 13	ọlọ́pàá	ọlọ́pàá	NOUN	_	_	_	_	_	_
-14-15	tó	_	_	_	_	_	_	_	
+14-15	tó	_	_	_	_	_	_	_	_	
 14	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	wà	wà	VERB	_	_	_	_	_	_
@@ -2531,7 +2531,7 @@
 11	èèyàn	èèyàn	NOUN	_	_	_	_	_	_
 12-13	nípínlẹ̀	_	_	_	_	_	_	_	_
 12	ní	ní	ADP	_	_	_	_	_	_
-13	ìpínlẹ̀ ìpínlẹ̀	NOUN	_	_	_	_	_	_
+13	ìpínlẹ̀ ìpínlẹ̀	NOUN	_	_	_	_	_	_	_
 14	yìí	yìí	DET	_	PronType=Dem	_	_	_	_
 15	ni	ni	PART	_	_	_	_	_	_
 16	.	_	PUNCT	_	_	_	_	_	_
@@ -2748,7 +2748,7 @@
 7	ọba	ọba	NOUN	_	_	_	_	_	_
 8-9	ló	_	_	_	_	_	_	_	_
 8	ni	ni	PART	_	_	_	_	_	_
-9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+9	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	ń	ń	AUX	_	_	_	_	_	_
 11	kọrin	kọrin	VERB	_	_	_	_	_	_
 12	fún	fún	ADP	_	_	_	_	_	_
@@ -2966,7 +2966,7 @@
 25	,	_	PUNCT	_	_	_	_	_	_
 26	tàbí	tàbí	CCONJ	_	_	_	_	_	_
 27	kí	kí	SCONJ	_	_	_	_	_	_
-28	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs_	_	_	_	
+28	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_	
 29	rò	rò	VERB	_	_	_	_	_	_
 30	pé	pé	SCONJ	_	_	_	_	_	_
 31	a	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
@@ -3161,7 +3161,7 @@
 19	Oyègòkè	_	PROPN	_	_	_	_	_	_
 20-21	ló	_	_	_	_	_	_	_	_
 20	ni	ni	PART	_	_	_	_	_	_
-21	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+21	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 22-23	lọmọ	_	_	_	_	_	_	_	_
 22	ni	ni	VERB	_	_	_	_	_	_
 23	ọmọ	ọmọ	NOUN	_	_	_	_	_	_
@@ -3532,7 +3532,7 @@
 
 # text = Ayọ̀ Adésànyà òṣèrébìnrin tó máa ń ṣeré tíátà lédè Yorùbá àti Gèésì ti jẹ́ káwọn ayé mọ̀ pé òun kò tí ì dàgbà jù láti lọ́kọ tuntun kí òun sì tún ṣègbéyàwó , ó láwọn tó ju òun lọ ń lọ́kọ lọ́jọ́ ogbó , kódà wọ́n tún ń ṣe abiyamọ .
 1	Ayọ̀	_	PROPN	_	_	_	_	_	_
-2	Adésànyà_	PROPN	_	_	_	_	_	_
+2	Adésànyà_	PROPN	_	_	_	_	_	_	_
 3	òṣèrébìnrin	òṣèrébìnrin	NOUN	_	_	_	_	_	_
 4-5	tó	_	_	_	_	_	_	_	_
 4	tí	tí	PRON	_	PronType=Rel	_	_	_	_
@@ -3599,7 +3599,7 @@
 
 # text = Òṣèré yìí sọ pé òun mọ arẹwà obìnrin kan tó jẹ́ pé ó ti pé àádọ́ta ọdún kó tó ṣègbéyàwó , ọdún karùn - ún lẹ́yìn ìgbéyàwó náà ló sì ṣẹ̀ṣẹ̀ bímọ . 
 1	Òṣèré	òṣèré	NOUN	_	_	_	_	_	_
-2	yìí	yìí	DET	_	PronType=Dem	_	_	_	
+2	yìí	yìí	DET	_	PronType=Dem	_	_	_	_	
 3	sọ	sọ	VERB	_	_	_	_	_	_
 4	pé	pé	SCONJ	_	_	_	_	_	_
 5	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -3766,7 +3766,7 @@
 1	Ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2-3	lóun	_	_	_	_	_	_	_	_
 2	ní	ní	VERB	_	_	_	_	_	_	
-3	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+3	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	ń	ń	AUX	_	_	_	_	_	_	
 5	jayé	jayé	NOUN	_	_	_	_	_	_	
 6	orí	orí	NOUN	_	_	_	_	_	_	
@@ -3795,7 +3795,7 @@
 # text = Bó tilẹ̀ jẹ́ pé àwọn èèyàn kò fi bẹ́ẹ̀ gbọ́ nípa Yusuf Ọ̀jẹ̀wálé tí ìnagijẹ ẹ̀ ń jẹ́ Satia fún ọdún pípẹ́ , síbẹ̀ , bó ṣe kú lójijì lọ́sẹ̀ tó kọjá ni gbogbo àwọn tó mọ̀ ọ́n bíi òṣèré Yorùbá ti bẹ̀rẹ̀ sí i dárò , tí wọ́n sì ń kẹ́dùn rẹ̀ , títí di àsìkò yìí ni ìbánikẹ́dùn ọ̀hún sì ń lọ láàrin àwọn tó mọ̀ ọ́n , tí wọ́n sì ń pe ikú rẹ̀ náà ba ni lọ́kàn jẹ́ gidi .
 1-2	Bó	_	_	_	_	_	_	_	_
 1	Bí	bí	SCONJ	_	_	_	_	_	_	
-2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+2	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	tilẹ̀	tilẹ̀	ADV	_	_	_	_	_	_	
 4	jẹ́	jẹ́	VERB	_	_	_	_	_	_	
 5	pé	pé	SCONJ	_	_	_	_	_	_	
@@ -3822,7 +3822,7 @@
 26	,	_	PUNCT	_	_	_	_	_	_	
 27-28	bó	_	_	_	_	_	_	_	_	
 27	bí	bí	SCONJ	_	_	_	_	_	_	
-28	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+28	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 29	ṣe	ṣe	VERB	_	_	_	_	_	_	
 30	kú	kú	VERB	_	_	_	_	_	_	
 31	lójijì	lójijì	ADV	_	_	_	_	_	_	
@@ -3831,14 +3831,14 @@
 33	ọ̀sẹ̀	ọ̀sẹ̀	NOUN	_	_	_	_	_	_	
 34-35	tó	_	_	_	_	_	_	_	_	
 34	tí	tí	PRON	_	PronType=Rel	_	_	_	_	
-35	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+35	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 36	kọjá	kọjá	VERB	_	_	_	_	_	_	
 37	ni	ni	PART	_	_	_	_	_	_	
 38	gbogbo	gbogbo	PRON	_	Number=Plur|PronType=Tot	_	_	_	_	
 39	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_	
 40-41	tó	_	_	_	_	_	_	_	_	
 40	tí	tí	PRON	_	PronType=Rel	_	_	_	_	
-41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+41	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 42	mọ̀	mọ̀	VERB	_	_	_	_	_	_	
 43	ọ́n	ọ́n	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	
 44	bíi	bí	ADP	_	_	_	_	_	_	
@@ -4017,7 +4017,7 @@
 30	òṣèré	òṣèré	NOUN	_	_	_	_	_	_	
 31-32	bó	_	_	_	_	_	_	_	_	
 31	bí	bí	SCONJ	_	_	_	_	_	_	
-32	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+32	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 33	ṣe	ṣe	VERB	_	_	_	_	_	_	
 34	kéré	kéré	ADJ	_	_	_	_	_	_	
 35	tó	tó	ADV	_	_	_	_	_	_	
@@ -4497,7 +4497,7 @@
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 17	wà	wà	VERB	_	_	_	_	_	_
 18	níbẹ̀	níbẹ̀	ADV	_	_	_	_	_	_
-19-20	ló	_	_	_	_	_	_	_
+19-20	ló	_	_	_	_	_	_	_	_
 19	ni	ni	PART	_	_	_	_	_	_
 20	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 21	ṣì	ṣì	ADV	_	_	_	_	_	_
@@ -4591,7 +4591,7 @@
 13	ayẹyẹ	ayẹyẹ	NOUN	_	_	_	_	_	_
 14	"	_	PUNCT	_	_	_	_	_	_
 15	Headies	_	PROPN	_	_	_	_	_	_
-16	award	_	PROPN	_	_	_	_	_
+16	award	_	PROPN	_	_	_	_	_	_
 17	"	_	PUNCT	_	_	_	_	_	_
 18	ló	_	_	_	_	_	_	_	_
 18	ni	ni	PART	_	_	_	_	_	_
@@ -5187,7 +5187,7 @@
 50	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 51	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 52	ti	ti	AUX	_	_	_	_	_	_
-53	_	_	_	_	_	_	_	_	
+53	_	_	_	_	_	_	_	_	_
 54	fi	fi	VERB	_	_	_	_	_	_
 55	ayé	ayé	NOUN	_	_	_	_	_	_
 56	sílẹ̀	sílẹ̀	ADV	_	_	_	_	_	_
@@ -5382,7 +5382,7 @@
 12	pé	pé	SCONJ	_	_	_	_	_	_
 13	ọ̀pọ̀	ọ̀pọ̀	DET	_	Number=Plur|PronType=Ind	_	_	_	_
 14	èèyàn	èèyàn	NOUN	_	_	_	_	_	_
-15-16	ló	_	_	_	_	_	_	_
+15-16	ló	_	_	_	_	_	_	_	_
 15	ni	ni	PART	_	_	_	_	_	_
 16	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 17	ń	ń	AUX	_	_	_	_	_	_
@@ -5721,7 +5721,7 @@
 19	,	_	PUNCT	_	_	_	_	_	_
 20	níṣe	níṣe	PART	_	_	_	_	_	_
 21-22	ló	_	_	_	_	_	_	_	_
-21	ni	ni	PART	_	_	_	_	_	
+21	ni	ni	PART	_	_	_	_	_	_
 22	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 23	ń	ń	AUX	_	_	_	_	_	_
 24	lejú	lejú	VERB	_	_	_	_	_	_
@@ -5973,7 +5973,7 @@
 20	,	_	PUNCT	_	_	_	_	_	_
 21	ká	_	_	_	_	_	_	_	_
 21	kí	kí	SCONJ	_	_	_	_	_	_
-21	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs		_	_	_	_
+21	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 22	sì	Sì	CCONJ	_	_	_	_	_	_
 23	lè	Lè	AUX	_	_	_	_	_	_
 24	dúpẹ́	dúpẹ́	VERB	_	_	_	_	_	_
@@ -6433,7 +6433,7 @@
 4	ń	ń	AUX	_	_	_	_	_	_
 5	sọ	Sọ	VERB	_	_	_	_	_	_
 6	pé	Pé	SCONJ	_	_	_	_	_	_
-7-8	ká	_	_	_	_	_	_	_
+7-8	ká	_	_	_	_	_	_	_	_
 7	kí	kí	SCONJ	_	_	_	_	_	_
 8	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 9	má	Má	AUX	_	_	_	_	_	_
@@ -6519,7 +6519,7 @@
 27	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 28	ní	ní	VERB	_	_	_	_	_	_
 29-30	ká	_	_	_	_	_	_	_	_
-29	kí	kí	SCONJ	_	_	_	_	_	
+29	kí	kí	SCONJ	_	_	_	_	_	_
 30	á	á	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 31	yáa	yára	ADV	_	_	_	_	_	_
 32	lọ	lọ	VERB	_	_	_	_	_	_
@@ -6695,7 +6695,7 @@
 12	mo	mo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_	
 13	rí	rí	VERB	_	_	_	_	_	_	
 14	i	i	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	_	
-15	pé	pé	SCONJ	_	_	_	_	_	_	_
+15	pé	pé	SCONJ	_	_	_	_	_	_
 16	kì	kì	PART	_	_	_	_	_	_	
 17	_	_	PUNCT	_	_	_	_	_	_	
 18	í	í	PART	_	_	_	_	_	_	
@@ -7547,9 +7547,9 @@
 
 # text = Tèminitìrẹ nítòótọ́ ,
 1-3	Tèminitìrẹ	_	_	_	_	_	_	_	_
-1	Tèmi	tèmi	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs		_	_	_	_
+1	Tèmi	tèmi	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 2	ni	ni	VERB	_	_	_	_	_	_
-3	tìrẹ	tìrẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs		_	_	_	_
+3	tìrẹ	tìrẹ	PRON	_	Case=Gen|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 4	nítòótọ́	nítòótọ́	ADV	_	_	_	_	_	_
 5	,	_	PUNCT	_	_	_	_	_	_
 
@@ -7686,7 +7686,7 @@
 10	kí	kí	SCONJ	_	_	_	_	_	_
 10	wọ́n	wọ́n	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 11	mọ̀	mọ̀	VERB	_	_	_	_	_	_
-12	very	_	ADV	_	_	_	_	_
+12	very	_	ADV	_	_	_	_	_	_
 13	soon	_	ADV	_	_	_	_	_	_
 14	.	_	PUNCT	_	_	_	_	_	_
 
@@ -7999,7 +7999,7 @@
 65	sí	sí	VERB	_	_	_	_	_	_
 66	òde	òde	NOUN	_	_	_	_	_	_
 67	àríyá	àríyá	NOUN	_	_	_	_	_	_
-68-69	lọ́rọ̀	_	_	_	_	_	_	_	
+68-69	lọ́rọ̀	_	_	_	_	_	_	_	_	
 68	ní	ní	ADP	_	_	_	_	_	_
 69	ọ̀rọ̀	ọ́rọ̀	NOUN	_	_	_	_	_	_
 70	mi	mi	PRON	_	Case=Gen|Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -8736,7 +8736,7 @@
 3	ọ̀rọ̀	Ọ̀rọ̀	NOUN	_	_	_	_	_	_
 4	àròkàn	àròkàn	ADJ	_	_	_	_	_	_
 5-6	ló	_	_	_	_	_	_	_	_
-5	ni	ni	PART	_	_	_	_	_
+5	ni	ni	PART	_	_	_	_	_	_
 6	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	ń	Ń	AUX	_	_	_	_	_	_
 8	fa	Fa	VERB	_	_	_	_	_	_
@@ -9918,7 +9918,7 @@
 3	kò	Kò	PART	_	_	_	_	_	_
 4	jẹ́	Jẹ́	VERB	_	_	_	_	_	_
 5	kí	Kí	SCONJ	_	_	_	_	_	_
-6	n	N	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs		_	_	_	_
+6	n	N	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 7	sinmi	Sinmi	VERB	_	_	_	_	_	_
 8	,	_	PUNCT	_	_	_	_	_	_
 9	ní	Ní	PART	_	_	_	_	_	_
@@ -10570,7 +10570,7 @@
 10	,	_	PUNCT	_	_	_	_	_	_
 11	ajítọtítì	ajítọtítì	NOUN	_	_	_	_	_	_
 12	,	_	PUNCT	_	_	_	_	_	_
-13	a	A	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs_	_	_	_
+13	a	A	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	mọ	mọ	VERB	_	_	_	_	_	_
 15	ọ̀nà	Ọ̀nà	NOUN	_	_	_	_	_	_
 16	oko	oko	NOUN	_	_	_	_	_	_
@@ -12383,7 +12383,7 @@
 12	)	_	PUNCT	_	_	_	_	_	_
 13	Kí	_	ADV	_	_	_	_	_	_
 14-15	ló	_	_	_	_	_	_	_	_
-14	ni	ni	PART	_	_	_	_	_	
+14	ni	ni	PART	_	_	_	_	_	_	
 15	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	wá	Wá	VERB	_	_	_	_	_	_
 17	dé	Dé	VERB	_	_	_	_	_	_
@@ -19865,7 +19865,7 @@
 2	ìpèníjà	Ìpèníjà	NOUN	_	_	_	_	_	_
 3	t	tí 	PRON	_	PronType=Rel	_	_	_	_
 4	'	_	PUNCT	_	_	_	_	_	_
-5	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+5	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6-7	tara	_	_	_	_	_	_	_	_
 6	ti	ti	ADP	_	_	_	_	_	_
 7	ara	ara	NOUN	_	_	_	_	_	_
@@ -20560,7 +20560,7 @@
 3	wàákò	wàákò	VERB	_	_	_	_	_	_
 4	pẹ̀lú	Pẹ̀lú	ADP	_	_	_	_	_	_
 5	ìlànà	ìlànà	NOUN	_	_	_	_	_	_
-6	ìmọ̀-ìjìnlẹ̀	ìmọ̀-ìjìnlẹ̀	NOUN	_	_	_	_	_	_	_
+6	ìmọ̀-ìjìnlẹ̀	ìmọ̀-ìjìnlẹ̀	NOUN	_	_	_	_	_	_
 
 # text = Ihà kékeré kọ́ ni egbògi ìbílẹ̀ ń kó nínú àṣà ìbílẹ̀ Yorùbá .
 1	Ihà	Ihà	NOUN	_	_	_	_	_	_
@@ -21844,7 +21844,7 @@
 3	tẹ̀gbintẹ̀gbin	tẹ̀gbintẹ̀gbin	ADJ	_	_	_	_	_	_
 4-5	tòun	_	_	_	_	_	_	_	_
 4	ti	ti	ADP	_	_	_	_	_	_
-5	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_	_
+5	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	ìwà	Ìwà	NOUN	_	_	_	_	_	_
 6	ẹlẹ́yàmẹyà	Ẹlẹ́yàmẹyà	NOUN	_	_	_	_	_	_
 7	àti	Àti	CCONJ	_	_	_	_	_	_
