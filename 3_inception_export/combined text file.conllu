@@ -2558,7 +2558,7 @@
 20	,	_	PUNCT	_	_	_	_	_	_
 21-22	kóun	_	_	_	_	_	_	_	_
 21	kí	kí	SCONJ	_	_	_	_	_	_
-22	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_	
+22	òun	òun	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 23	náà	náà	DET	_	PronType=Dem	_	_	_	_
 24	sì	sì	CCONJ	_	_	_	_	_	_
 25-26	fojú	_	_	_	_	_	_	_	_
@@ -5623,7 +5623,6 @@
 31	mọ́	mọ́	ADV	_	_	_	_	_	_
 32	.	_	PUNCT	_	_	_	_	_	_
 
-
 # text = Ìgbéyàwó tí a kò tiẹ̀ tíì sinmi lórí ẹ̀ ni o , ìgbéyàwó tó jẹ́ Ọlọ́run ni kò jẹ́ kó túká lọ́jọ́ kejì .
 1	Ìgbéyàwó	ìgbéyàwó	NOUN	_	_	_	_	_	_
 2	tí	tí	PRON	_	PronType=Rel	_	_	_	_
@@ -7401,7 +7400,6 @@
 21	bẹ́ẹ̀	Bẹ́ẹ̀	ADV	_	_	_	_	_	_
 22	lọ	lọ	VERB	_	_	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
-
 
 # text = Bọ̀ọ̀dá bi mí léèrè pé kí ló dé ti n kò fi yàn láti lọ ilé ìwé .
 1	Bọ̀ọ̀dá	Bọ̀ọ̀dá	NOUN	_	_	_	_	_	_
