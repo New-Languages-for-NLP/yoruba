@@ -1,0 +1,6 @@
+newlang_project/assets
+newlang_project/lang
+newlang_project/corpus
+newlang_project/training
+newlang_project/project.lock
+.python-version
