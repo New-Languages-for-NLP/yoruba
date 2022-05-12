@@ -10200,9 +10200,9 @@
 16	rán	Rán	VERB	_	_	_	_	_	_
 17	-	_	PUNCT	_	_	_	_	_	_
 18-19	níṣẹ́	_	_	_	_	_	_	_	_
-20	ní	ní	ADP	_	_	_	_	_	_
-21	iṣẹ́	iṣẹ́	NOUN	_	_	_	_	_	_
-22	.	_	PUNCT	_	_	_	_	_	_
+18	ní	ní	ADP	_	_	_	_	_	_
+19	iṣẹ́	iṣẹ́	NOUN	_	_	_	_	_	_
+20	.	_	PUNCT	_	_	_	_	_	_
 
 # text = Àwọn isé pẹ́ẹ́pẹ̀ẹ̀pẹ́ẹ́ tó lè dààmú ìyá àgbà ni Bọ̀bóyè ń bá a ṣe .
 1	Àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_
