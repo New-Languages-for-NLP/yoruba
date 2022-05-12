@@ -9252,24 +9252,24 @@
 21	.	_	PUNCT	_	_	_	_	_	_
 
 # text = Ó mọ èyí mọ́ Bọ̀bóye pé àwọn ìbéèrè gbankọ - gbankọ máa ń ti ẹnu rẹ̀ jáde .
-20	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-21	mọ	mọ	VERB	_	_	_	_	_	_
-22	èyí	Èyí	PRON	_	Number=Sing|PronType=Dem	_	_	_	_
-23	mọ́	mọ́	ADP	_	_	_	_	_	_
-24	Bọ̀bóye	_	PROPN	_	_	_	_	_	_
-25	pé	Pé	SCONJ	_	_	_	_	_	_
-26	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_
-27	ìbéèrè	ìbéèrè	NOUN	_	_	_	_	_	_
-28	gbankọ	gbankọ	ADJ	_	_	_	_	_	_
-29	-	_	PUNCT	_	_	_	_	_	_
-30	gbankọ	gbankọ	ADJ	_	_	_	_	_	_
-31	máa	Máa	AUX	_	_	_	_	_	_
-32	ń	Ń	AUX	_	_	_	_	_	_
-33	ti	Ti	ADP	_	_	_	_	_	_
-34	ẹnu	Ẹnu	NOUN	_	_	_	_	_	_
-35	rẹ̀	Rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-36	jáde	Jáde	VERB	_	_	_	_	_	_
-37	.	_	PUNCT	_	_	_	_	_	_
+1	Ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	mọ	mọ	VERB	_	_	_	_	_	_
+3	èyí	Èyí	PRON	_	Number=Sing|PronType=Dem	_	_	_	_
+4	mọ́	mọ́	ADP	_	_	_	_	_	_
+5	Bọ̀bóye	_	PROPN	_	_	_	_	_	_
+6	pé	Pé	SCONJ	_	_	_	_	_	_
+7	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_
+8	ìbéèrè	ìbéèrè	NOUN	_	_	_	_	_	_
+9	gbankọ	gbankọ	ADJ	_	_	_	_	_	_
+10	-	_	PUNCT	_	_	_	_	_	_
+11	gbankọ	gbankọ	ADJ	_	_	_	_	_	_
+12	máa	Máa	AUX	_	_	_	_	_	_
+13	ń	Ń	AUX	_	_	_	_	_	_
+14	ti	Ti	ADP	_	_	_	_	_	_
+15	ẹnu	Ẹnu	NOUN	_	_	_	_	_	_
+16	rẹ̀	Rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+17	jáde	Jáde	VERB	_	_	_	_	_	_
+18	.	_	PUNCT	_	_	_	_	_	_
 
 # text = Béèyàn ò bá sì fọgbọ́n ṣe é , ó le kó bọwọ́bọwọ́ bọ èèyàn lọ́wọ́ .
 1	Béèyàn	Bí eèyàn	NOUN	_	_	_	_	_	_
