@@ -2498,7 +2498,7 @@
 21	'	_	PUNCT	_	_	_	_	_	_
 22	Abéòkúta	_	PROPN	_	_	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Awólọ́wọ̀ tó gbaṣẹ́ lọ́wọ́ ọ̀gá ọlọ́pàá Ògùn tẹ́lẹ̀ , Kenneth Ebrimson .
 1	Awólọ́wọ̀	_	PROPN	_	_	_	_	_	_
 2-3	tó	_	_	_	_	_	_	_	_
@@ -5009,7 +5009,7 @@
 43	gbogbo	gbogbo	DET	_	Number=Plur|PronType=Tot	_	_	_	_
 44	ènìyàn	ènìyàn	NOUN	_	_	_	_	_	_
 45	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = “ Lára àwọn nǹkan tí gbogbo wá ní láti kọ́ nínú ayé Ọba Adérẹ̀mí ni orúkọ _ rere tó ń fọhùn títí di òní , _ eléyìí tó sàn ju wúrà àti fàdákà lọ .
 1	“	_	PUNCT	_	_	_	_	_	_
 2	Lára	lára	ADP	_	_	_	_	_	_
@@ -6633,7 +6633,7 @@
 12	ní	ní	VERB	_	_	_	_	_	_
 13-14	kò	_	_	_	_	_	_	_	_
 13	kí	kí	SCONJ	_	_	_	_	_	_
-14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs		_	_	_
+14	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs  _	_	_	_
 15	gbé	gbé	VERB	_	_	_	_	_	_
 16	mi	mi	PRON	_	Case=Acc|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 17	ṣubú	ṣubú	VERB	_	_	_	_	_	_
@@ -6806,7 +6806,7 @@
 37	ilé	ilé	NOUN	_	_	_	_	_	_
 38	jáde	jáde	VERB	_	_	_	_	_	_
 39	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Ọkọ ìyàwó jókòó gọ́ú sẹ́gbẹ̀ẹ́ kan níbẹ̀ , ó kanrí mọ́ _ kọ̀m̀pútà , ò ǹ _ ṣe bìi ẹni pé òun kò rí mi .
 1	Ọkọ	Ọkọ	NOUN	_	_	_	_	_	_
 2	ìyàwó	Ìyàwó	NOUN	_	_	_	_	_	_
@@ -7813,7 +7813,7 @@
 21	wedding	_	NOUN	_	_	_	_	_	_
 22	wa	wa	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 23	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Ayé tí sú mí .
 1	Ayé	Ayé	NOUN	_	_	_	_	_	_
 2	tí	Tí	AUX	_	_	_	_	_	_
@@ -8603,7 +8603,7 @@
 46	fáìn	fáìn	VERB	_	_	_	_	_	_
 47	jù	jù	ADV	_	_	_	_	_	_
 48	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Fìlíṣíà ràgà bo Bọ̀bóyè ọmọ rẹ̀ ọkùnrin .
 1	Fìlíṣíà	_	PROPN	_	_	_	_	_	_
 2	ràgà	ràgà	VERB	_	_	_	_	_	_
@@ -8951,7 +8951,7 @@
 32	ní	ní	ADP	_	_	_	_	_	_
 33	Àbújá	_	PROPN	_	_	_	_	_	_
 34	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Báwo ni Rọ̀gbà kò ṣe ní í mọ̀ pé sisí ọlọ́mọ kan lòun báyìí ?
 1	Báwo	báwo	ADV	_	_	_	_	_	_
 2	ni	ni	VERB	_	_	_	_	_	_
@@ -9478,7 +9478,7 @@
 28	òun	Òun	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 29	mọ́ra	mọ́ra	ADV	_	_	_	_	_	_
 30	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Lẹ́yìn èyí ni òun yóò máa fi túbọ̀mu dúdú imú rẹ ṣeré .
 1	Lẹ́yìn	lẹ́yìn	ADP	_	_	_	_	_	_
 2	èyí	Èyí	PRON	_	Number=Sing|PronType=Dem	_	_	_	_
@@ -9790,7 +9790,7 @@
 53	ti	ti	AUX	_	_	_	_	_	_
 54	dàgbà	dàgbà	VERB	_	_	_	_	_	_
 55	,	_	PUNCT	_	_	_	_	_	_
-52-	tọ́wọ́	_	_	_	_	_	_	_	_
+56-57	tọ́wọ́	_	_	_	_	_	_	_	_
 56	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 57	ọwọ́	ọwọ́	NOUN	_	_	_	_	_	_
 58	rẹ̀	rẹ̀	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -12678,7 +12678,7 @@
 14	ní	ní	ADP	_	_	_	_	_	_
 15	ọwọ́	ọwọ́	NOUN	_	_	_	_	_	_
 16	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Wùmí : ìyàwó Sámúsìnnì náà ló fi àṣírí ọkọ rẹ̀ lé àwọn ọ̀tá lọ́wọ́ .
 1	Wùmí	_	PROPN	_	_	_	_	_	_
 2	:	_	PUNCT	_	_	_	_	_	_
@@ -19885,7 +19885,7 @@
 26	àti	Àti	CCONJ	_	_	_	_	_	_
 27	ìmọ̀-ẹ̀rọ	Ìmọ̀-ẹ̀rọ	NOUN	_	_	_	_	_	_
 28	.	_	PUNCT	_	_	_	_	_	_
-									
+
 # text = Lọ́dún 2019 , gẹ́gẹ́ bí CNN ti ṣe ròyìn , Google _ ṣí _ ibiṣẹ́ ìwádìí AI àkọ́kọ́ irú ẹ̀ sí Accra , Ghana , tí ó ń lépa láti mú kí “ Atúmọ̀ Google ó gba àwọn èdè Ilẹ̀-Adúláwọ̀ jọ kí ó lọ geere ” .
 1-2	Lọ́dún	_	_	_	_	_	_	_	_
 1	Ní	ní	ADP	_	_	_	_	_	_
@@ -21237,7 +21237,7 @@
 # text = K ' á tiẹ̀ sọ pé àlùbọ́sà leè ṣiṣẹ́ ìpafinínfinfín àwọn kòkòrò àgọ́ ara — bí wọn kò bá leè wọ inú ara tàbí wọ inú ẹ̀dọ̀ fóró ( ní ìwọ̀n oògùn àlòlẹ́ẹ̀kan / bí ó ṣe tó ) , kò sí bí wọn ó tí ṣe jẹ́ bí mọna wáà lágọ̀ọ́ ara .
 1	K	kí	SCONJ	_	_	_	_	_	_
 2	'	_	PUNCT	_	_	_	_	_	_
-3	á	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs		_	_	_
+3	á	a	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 4	tiẹ̀	tiẹ̀	ADV	_	_	_	_	_	_
 5	sọ	sọ	VERB	_	_	_	_	_	_
 6	pé	pé	SCONJ	_	_	_	_	_	_
