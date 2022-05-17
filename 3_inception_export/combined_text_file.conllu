@@ -3364,7 +3364,7 @@
 27	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 28	àwọn	àwọn	PRON	_	Case=Nom|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 29	ẹ̀dá	ẹ̀dá	NOUN	_	_	_	_	_	_
-30-31   tó	_	_	_	_	_	_	_	_
+30-31	tó	_	_	_	_	_	_	_	_
 30	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 31	ó	ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 32	ní	ní	VERB	_	_	_	_	_	_
@@ -13946,7 +13946,7 @@
 1	Lára	Lára	ADP	_	_	_	_	_	_
 2	àwọn	àwọn	DET	_	Number=Plur|PronType=Dem	_	_	_	_
 3	Ọba	Ọba	NOUN	_	_	_	_	_	_
-4-5 tó	_	_	_	_	_	_	_	_
+4-5	tó	_	_	_	_	_	_	_	_
 4	tí	tí	PRON	_	PronType=Rel	_	_	_	_
 5	ó	Ó	PRON	_	Case=Nom|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	wà	Wà	VERB	_	_	_	_	_	_
