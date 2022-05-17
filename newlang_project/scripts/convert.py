@@ -66,8 +66,11 @@ def convert(export_path: str, n_sents:int, lang:str):
 
             joined_docs = []
             for ling, ner in zip(conllu_docs, conll_docs):
-                ling.ents = ner.ents
-                joined_docs.append(ling)
+                try:
+                    ling.ents = ner.ents
+                    joined_docs.append(ling)
+                except IndexError:
+                    pass
             
             out_bin = DocBin()
             [out_bin.add(doc) for doc in joined_docs]
